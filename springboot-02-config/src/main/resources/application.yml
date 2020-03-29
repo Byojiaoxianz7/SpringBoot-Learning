@@ -1,0 +1,7 @@
+server:
+  port: 8081
+
+
+dog:
+  name: ÍúÍúÍú²Æ
+  age: 12
